@@ -1,6 +1,6 @@
-# Hi, I'm Maria Asgari
+# Hi, I'm Maria Frederiksen
 
-#### 🌐 Portfolio: [devasgari.dk](https://devasgari.dk)
+#### 🌐 Portfolio: [mariafrederiksen.dk](https://mariafrederiksen.dk)
 
 ## Featured Projects
 
