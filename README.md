@@ -4,11 +4,15 @@
 
 ## Featured Projects
 
-#### 🤖 [AI Semantic Search Tool](https://github.com/DevAsgari/semantic-search-summary-tool) · 2025
+#### 🤖 [AI Semantic Search Tool](https://github.com/mariafrederiksendk/ai-semantic-search-tool)
 
 AI-powered semantic search CLI with text summarization capabilities.
 
-#### 😄 [Programming Jokes](https://github.com/DevAsgari/programming-jokes) · 2023
+#### 🏆 [Insurance Rewards](https://github.com/mariafrederiksendk/insurancerewards)
+
+ASP.NET Core MVC reward system for insurance sales, built with the Strategy and Adapter patterns.
+
+#### 😄 [Programming Jokes](https://github.com/mariafrederiksendk/programming-jokes)
 
 Simple SPA for submitting and viewing programming jokes.
 
