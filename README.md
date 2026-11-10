@@ -6,7 +6,7 @@
 
 #### 🤖 [AI Semantic Search Tool](https://github.com/mariafrederiksendk/ai-semantic-search-tool)
 
-AI-powered semantic search CLI with text summarization capabilities.
+Prototype search tool that finds text by meaning, not just keywords, and uses a second AI model to summarize the passages.
 
 #### 🏆 [Insurance Rewards](https://github.com/mariafrederiksendk/insurancerewards)
 
@@ -14,7 +14,7 @@ ASP.NET Core MVC reward system for insurance sales, built with the Strategy and 
 
 #### 😄 [Programming Jokes](https://github.com/mariafrederiksendk/programming-jokes)
 
-Simple SPA for submitting and viewing programming jokes.
+Simple website for submitting and viewing programming jokes.
 
 ## Tech Stack
 
